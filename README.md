@@ -1,4 +1,5 @@
 # intuit-rit-challenge-submission
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/sameerraghuram/intuit-rit-challenge-submission)
 
 I have put my code in the ipython notebook called rit-intuit-challenge.ipynb
 
